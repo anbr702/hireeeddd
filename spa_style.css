@@ -1,0 +1,89 @@
+body {
+    background-image: url(/Assignment/Transaction/7041698-sky-reflectioln-water.jpg);
+}
+
+.box {
+    width: 440px;
+    height: 338px;
+    background-color: #ffffff;
+    margin: 200px auto;
+    padding: 44px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 2.9);
+}
+
+.facebook {
+
+}
+.logo {
+    width: 325px;
+}
+img {
+    width: 108px;
+    height: 24px;
+    }
+
+h3 {
+    color: #1b1b1b;
+    font-size: 1.5rem;
+    font-weight: 600;
+    font-family: "Segoe UI","Helvetica Neue","Lucida Grande","Roboto","Ebrima","Nirmala UI","Gadugi","Segoe Xbox Symbol","Segoe UI Symbol","Meiryo UI","Khmer UI","Tunga","Lao UI","Raavi","Iskoola Pota","Latha","Leelawadee","Microsoft YaHei UI","Microsoft JhengHei UI","Malgun Gothic","Estrangelo Edessa","Microsoft Himalaya","Microsoft New Tai Lue","Microsoft PhagsPa","Microsoft Tai Le","Microsoft Yi Baiti","Mongolian Baiti","MV Boli","Myanmar Text","Cambria Math";
+
+    }
+
+form {
+    display: block;
+}
+.input {
+    display: flex;
+    flex-direction: column;
+}
+
+
+a {
+    color: #0067b8;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #646161;
+    text-decoration: underline;
+}
+
+    input {
+        border-top: 0;
+        border-left: 0;
+        border-right: 0;
+        outline: 0;
+        font-family: inherit;
+    font-size: inherit;
+    margin-bottom: 40px;
+}
+
+input:nth-child(2) {
+    margin-bottom: 10px;
+}
+
+input::placeholder {
+    font-family: "Segoe UI","Helvetica Neue","Lucida Grande","Roboto","Ebrima","Nirmala UI","Gadugi","Segoe Xbox Symbol","Segoe UI Symbol","Meiryo UI","Khmer UI","Tunga","Lao UI","Raavi","Iskoola Pota","Latha","Leelawadee","Microsoft YaHei UI","Microsoft JhengHei UI","Malgun Gothic","Estrangelo Edessa","Microsoft Himalaya","Microsoft New Tai Lue","Microsoft PhagsPa","Microsoft Tai Le","Microsoft Yi Baiti","Mongolian Baiti","MV Boli","Myanmar Text","Cambria Math";
+    font-size: 1rem
+}
+
+.sign {
+    color: #ffffff;
+    background-color: #0067b8;
+    border: none;
+    padding: 4px 12px;
+    width: 108px;
+    height: 32px;
+    margin-left: 4px;
+}
+
+.sign:hover{
+    cursor: pointer;
+}
+
+.summary {
+    display: flex;
+    justify-content: right;
+    margin-top: 30px;
+}
